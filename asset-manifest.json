@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "https://nssivanitesh.github.io/csb-h7x0s/static/js/main.e20b9172.chunk.js",
-    "main.js.map": "https://nssivanitesh.github.io/csb-h7x0s/static/js/main.e20b9172.chunk.js.map",
+    "main.js": "https://nssivanitesh.github.io/csb-h7x0s/static/js/main.b9f6d69f.chunk.js",
+    "main.js.map": "https://nssivanitesh.github.io/csb-h7x0s/static/js/main.b9f6d69f.chunk.js.map",
     "runtime-main.js": "https://nssivanitesh.github.io/csb-h7x0s/static/js/runtime-main.4e3bc08d.js",
     "runtime-main.js.map": "https://nssivanitesh.github.io/csb-h7x0s/static/js/runtime-main.4e3bc08d.js.map",
     "static/css/2.cbedb215.chunk.css": "https://nssivanitesh.github.io/csb-h7x0s/static/css/2.cbedb215.chunk.css",
-    "static/js/2.fc94d23d.chunk.js": "https://nssivanitesh.github.io/csb-h7x0s/static/js/2.fc94d23d.chunk.js",
-    "static/js/2.fc94d23d.chunk.js.map": "https://nssivanitesh.github.io/csb-h7x0s/static/js/2.fc94d23d.chunk.js.map",
+    "static/js/2.9edcd606.chunk.js": "https://nssivanitesh.github.io/csb-h7x0s/static/js/2.9edcd606.chunk.js",
+    "static/js/2.9edcd606.chunk.js.map": "https://nssivanitesh.github.io/csb-h7x0s/static/js/2.9edcd606.chunk.js.map",
     "index.html": "https://nssivanitesh.github.io/csb-h7x0s/index.html",
     "static/css/2.cbedb215.chunk.css.map": "https://nssivanitesh.github.io/csb-h7x0s/static/css/2.cbedb215.chunk.css.map",
-    "static/js/2.fc94d23d.chunk.js.LICENSE.txt": "https://nssivanitesh.github.io/csb-h7x0s/static/js/2.fc94d23d.chunk.js.LICENSE.txt"
+    "static/js/2.9edcd606.chunk.js.LICENSE.txt": "https://nssivanitesh.github.io/csb-h7x0s/static/js/2.9edcd606.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4e3bc08d.js",
     "static/css/2.cbedb215.chunk.css",
-    "static/js/2.fc94d23d.chunk.js",
-    "static/js/main.e20b9172.chunk.js"
+    "static/js/2.9edcd606.chunk.js",
+    "static/js/main.b9f6d69f.chunk.js"
   ]
 }
